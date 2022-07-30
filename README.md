@@ -1,6 +1,6 @@
 # Hardhat Nft Marketplace Front End
 
-On this repo you will find the front-ent for the nft-marketplace smartcontract: https://github.com/AdrianCobo/hardhat-nft-marketplace
+On this repo you will find the front-ent for the nft-marketplace smartcontract using moralis: https://github.com/AdrianCobo/hardhat-nft-marketplace
 
 1. Home Page:
     1. Show recently listed NFTs
